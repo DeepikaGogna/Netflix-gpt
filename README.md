@@ -10,9 +10,13 @@ Step 3: Create Components
     -Login
     -Body
     -Browser
-    
+
 Step4: Setup Routing
 npm i -D react-router-dom
+
+Step5: Form Validation for Sign In and Sign Up Forms using UseRef Hook
+
+Step6: Firebase setup   
 
 
 Shortcuts
